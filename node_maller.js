@@ -18,7 +18,7 @@ const mailSender = async () => {
                 secure: false,
                 auth: {
                     user: 'raja21@navgurukul.org',
-                    pass: 'raja@9931'
+                    pass: '*****enter your password'
                 }
             })
             let body = `<p>Hello sir/ ma'am,</p>
